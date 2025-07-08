@@ -1,24 +1,24 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Physical Sciences
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Electric Circuits Virtual Lab
+<b> Experiment|     <b> Parallel RL Circuits
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+In a parallel RL circuit, the resistor (R) and inductor (L) are connected in parallel across a voltage source. Unlike series RL circuits, the output voltage across each component remains the same as the input voltage. These circuits are mainly analyzed when driven by current sources, as the interaction between the resistive and inductive branches affects the total current and phase relationship. 
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Amrita Virtual Labs
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
+<b> Institute | <b>  Amrita Vishwa Vidyapeetham
+<b> Email id|     <b>  virtual_labs@am.amrita.edu
 <b> Department |  
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Mr. Saneesh P F | . | . | Amrita Vishwa Vidyapeetham | .
 2 | . | . | . | . | .
