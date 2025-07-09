@@ -1,38 +1,38 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+   {
+      "question": "The process of selecting a desired frequency out of a complex wave is called",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Amplification",
+        "b": "None of these",
+        "c": "Rectification",
+        "d": "Tuning"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Amplification increases signal strength, not selectivity.",
+        "b": "Incorrect; one of the options is valid.",
+        "c": "Rectification converts AC to DC.",
+        "d": "Correct. Tuning allows selection of desired frequency. <a href='https://en.wikipedia.org/wiki/Tuner_(radio)'>Learn more</a>"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The Q-factor of the resistance coil is ..................",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Infinetly high",
+        "b": "High",
+        "c": "Zero",
+        "d": "Low"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Not practically possible; idealized condition.",
+        "b": "Correct. Coils typically have a high Q-factor.",
+        "c": "Incorrect, zero implies no selectivity.",
+        "d": "Possible in poor quality coils but not typical."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
