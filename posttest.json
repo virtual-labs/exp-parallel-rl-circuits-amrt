@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+     {
+      "question": "Higher the Q-factor of the resonant circuit, its bandwidth is",
+      "answers": {
+        "a": "Almost Zero",
+        "b": "Narrower",
+        "c": "Wider",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Too extreme; it's narrow but not zero.",
+        "b": "Correct. Higher Q means narrower bandwidth. <a href='https://en.wikipedia.org/wiki/Q_factor'>Learn more</a>",
+        "c": "Incorrect. Wider bandwidth means lower Q.",
+        "d": "There is a correct option."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What will happen if parallel RL connected to a DC power source?",
+      "answers": {
+        "a": "Minimum current will flow through circuit.",
+        "b": "Resistor will damage.",
+        "c": "No current will flow through circuit.",
+        "d": "Maximum current will flow through circuit."
+      },
+      "explanations": {
+        "a": "Incorrect. Depends on resistance value.",
+        "b": "Incorrect unless power rating exceeded.",
+        "c": "Incorrect. Current flows through resistor.",
+        "d": "Correct. Inductor becomes shorted after steady-state; max current through resistor."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If 10Ω resistor and 10 Henry inductor connected parallel. What will be the total resistance between the components if it is connected with 5 V DC power supply?",
+      "answers": {
+        "a": "5 Ω",
+        "b": "Infinite.",
+        "c": "10 Ω",
+        "d": "Nill"
+      },
+      "explanations": {
+        "a": "Incorrect calculation.",
+        "b": "Inductor becomes short after steady-state; not infinite.",
+        "c": "Correct. After a long time, inductor acts as short; current flows through resistor only.",
+        "d": "Incorrect. Resistance is not zero."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
